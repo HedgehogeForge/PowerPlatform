@@ -173,7 +173,6 @@ If you're interested in learning about data and how it can be used to make decis
 
 ### How to create a Panel information with Power Bi?
 
-
 Power BI is a great tool for creating panel information. Here's a step-by-step guide on how to create one:   
 
 1. Connect to your data:
@@ -200,4 +199,41 @@ Here are some additional tips for creating panel information with Power BI:
 4. Test your panel information with others to make sure it's easy to understand.
 Power BI is a powerful tool that can be used to create a variety of panel information. With a little creativity, you can use it to create panel information that is both informative and engaging.
 
+## What is Power Virtual Agents?
 
+Power Virtual Agents is a tool that lets you create chatbots that can answer questions and provide support to customers or employees. It's like having a virtual assistant that can help people with simple tasks, like finding information or resetting passwords.
+Power Virtual Agents is a great way to save time and improve customer service. It's also a lot of fun to play around with and see what you can do with it.
+
+### What is Power Virtual Agents used for?
+Here are some of the things you can do with Power Virtual Agents:
+
+* **Create chatbots that can answer questions**: You can create chatbots that can answer common questions about your company or products. For example, you can create a chatbot that can answer questions about your hours of operation or your return policy.
+* **Create chatbots that can provide support**: You can create chatbots that can help customers with simple tasks, like resetting passwords or finding information. For example, you can create a chatbot that can help customers troubleshoot common problems with your products.
+* **Create chatbots that can automate tasks**: You can create chatbots that can automate tasks, such as scheduling appointments or sending emails. For example, you can create a chatbot that can schedule appointments for your sales team.
+
+If you're looking for a way to save time and improve customer service, Power Virtual Agents is a great tool to consider. With a little creativity, you can use it to create all sorts of helpful chatbots.
+
+### How to start a Power Virtual Agent?
+To start a Power Virtual Agent with the Power Virtual Agents tool, you will need to follow these steps:
+
+1. Go to the Power Virtual Agents website and sign up for an account.
+2. Create a new bot and give it a name.
+3. Choose a template for your bot or start with a blank bot.
+4. Design the conversation flow for your bot.
+5. Test your bot to make sure it is working as expected.
+6. Publish your bot so that others can use it.
+
+Here are some additional tips:
+
+* Start with a small, well-defined problem.
+* Break down the problem into smaller, more manageable steps.
+* Use a modular design approach.
+* Test your bot early and often.
+* Get feedback from others.
+* Be prepared to iterate on your bot.
+
+Power Virtual Agents can be used to create a variety of chatbots, such as chatbots that can answer questions, provide support, and automate tasks.
+
+https://learn.microsoft.com/en-us/power-apps/chatbots#:~:text=Power%20Virtual%20Agents%20allows%20you,using%20a%20no%2Dcode%20interface.
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/step-by-step-creating-customized-applications-with-power-virtual-agent-to-empowe/3980820#:~:text=5.,you%20need%20to%20publish%20it.
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-your-own-chatbot-in-minutes-with-power-virtual-agents-no-coding-required/3869323#:~:text=Now%20how%20we%20can%20build,using%20the%20Power%20Virtual%20Agent%20.
