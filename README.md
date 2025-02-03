@@ -1,4 +1,4 @@
-# PowerPlatform
+# Power Platform
 
 Microsoft Power Platform is a suite of tools that allow you to create business solutions without needing to write code. It's like a set of building blocks that you can use to assemble applications, automate workflows, and analyze data.  Here are the main components of Power Platform:  
 
