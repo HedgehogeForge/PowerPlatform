@@ -61,10 +61,10 @@ With Power Apps, you can:
 - Improve customer service: Build chatbots that can answer questions, provide support, and resolve issues quickly and efficiently.
 Power Apps is a powerful tool that can help you improve efficiency, productivity, and decision-making in your organization.
 
-## What is a Canvas APP?
+#### What is a Canvas APP?
 Canvas apps are a type of app that you create using a blank canvas as a base. This gives you complete control over the design and functionality of your app. You can add elements like text boxes, buttons, images, and more to the canvas, and then use formulas to define how these elements interact with each other.
 
-### How to create a Canvas APP?
+##### How to create a Canvas APP?
 To create a canvas app, follow these steps:
 
 1. Sign in to Power Apps.
@@ -81,7 +81,7 @@ Here are some tips for creating a canvas app:
 - Test your app frequently to make sure it works as expected.
 Canvas apps are a great way to create custom apps that meet the specific needs of your business. With a little creativity and effort, you can create powerful and useful apps.
 
-### What is a Model-Driven APP based on models?
+##### What is a Model-Driven APP based on models?
 Model-driven apps are a type of app that you create using a data model as a base. This means that the structure and functionality of your app are determined by the data that you want to use in the app.
 
 To create a model-driven app, follow these steps:
