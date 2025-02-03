@@ -234,6 +234,6 @@ Here are some additional tips:
 
 Power Virtual Agents can be used to create a variety of chatbots, such as chatbots that can answer questions, provide support, and automate tasks.
 
-https://learn.microsoft.com/en-us/power-apps/chatbots#:~:text=Power%20Virtual%20Agents%20allows%20you,using%20a%20no%2Dcode%20interface.
-https://techcommunity.microsoft.com/blog/educatordeveloperblog/step-by-step-creating-customized-applications-with-power-virtual-agent-to-empowe/3980820#:~:text=5.,you%20need%20to%20publish%20it.
-https://techcommunity.microsoft.com/blog/educatordeveloperblog/build-your-own-chatbot-in-minutes-with-power-virtual-agents-no-coding-required/3869323#:~:text=Now%20how%20we%20can%20build,using%20the%20Power%20Virtual%20Agent%20.
+- Source 1: https://learn.microsoft.com/en-us/power-apps/chatbots#:~:text=Power%20Virtual%20Agents%20allows%20you,using%20a%20no%2Dcode%20interface.
+- Source 2: https://techcommunity.microsoft.com/blog/educatordeveloperblog/step-by-step-creating-customized-applications-with-power-virtual-agent-to-empowe/3980820#:~:text=5.,you%20need%20to%20publish%20it.
+
