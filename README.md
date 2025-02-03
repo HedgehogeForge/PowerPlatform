@@ -44,8 +44,6 @@ Improve collaboration: By sharing your information securely, you can facilitate 
 I hope this introduction has been helpful. If you have any questions, please feel free to ask.
 
 
-
-
 ## What is Power Apps?
 Power Apps is a suite of tools that let you build custom business apps without writing code. It's like a set of building blocks that you can use to assemble applications, automate workflows, and analyze data.
 
@@ -66,7 +64,7 @@ Power Apps is a powerful tool that can help you improve efficiency, productivity
 ## What is a Canvas APP?
 Canvas apps are a type of app that you create using a blank canvas as a base. This gives you complete control over the design and functionality of your app. You can add elements like text boxes, buttons, images, and more to the canvas, and then use formulas to define how these elements interact with each other.
 
-## How to create a Canvas APP?
+### How to create a Canvas APP?
 To create a canvas app, follow these steps:
 
 Sign in to Power Apps.
@@ -86,7 +84,7 @@ Canvas apps are a great way to create custom apps that meet the specific needs o
 
 And how to start with an app based on models?
 
-## What is a Canvas APP?
+## What is a Model-Driven APP?
 Model-driven apps are a type of app that you create using a data model as a base. This means that the structure and functionality of your app are determined by the data that you want to use in the app.
 
 To create a model-driven app, follow these steps:
@@ -108,10 +106,7 @@ Model-driven apps are a great way to create apps that are based on data. With a 
 
 
 
-
-Introduction to Power Automate
-
-
+## What is Power Automate?
 Power Automate is a tool that helps you automate tasks. It's like having a personal assistant that can take care of all the boring and repetitive things you have to do.
 
 For example, you can use Power Automate to:
@@ -122,6 +117,7 @@ Post messages to social media
 And much more!
 Power Automate is a great way to save time and be more productive. It's also a lot of fun to play around with and see what you can do with it.
 
+### What is Power Automate used for?
 Here are some of the things you can do with Power Automate:
 
 Create automated workflows: You can create workflows that will automatically perform tasks for you. For example, you can create a workflow that will automatically send you an email when someone mentions you on social media.
@@ -129,57 +125,8 @@ Connect to different services: You can connect Power Automate to different servi
 Use pre-built templates: Power Automate comes with a variety of pre-built templates that you can use to get started. These templates can help you automate common tasks, such as sending emails, saving attachments, and posting messages to social media.
 If you're looking for a way to save time and be more productive, Power Automate is a great tool to consider. With a little creativity, you can use it to automate all sorts of tasks.
 
-Comprobación completada
-•
 
-Comprende los resultados
-
-
-
-
-How to create an automated solution
-
-
-To create an automated solution, follow these steps:
-
-Define the problem you want to solve.
-Choose the right tool for the job.
-Design your solution.
-Build your solution.
-Test your solution.
-Deploy your solution.
-Maintain your solution.
-Here are some additional tips:
-
-Start with a small, well-defined problem.
-Break down the problem into smaller, more manageable steps.   
-Use a modular design approach.
-Test your solution early and often.
-Get feedback from others.
-Be prepared to iterate on your solution.
-Automated solutions can be used to solve a variety of problems, such as automating tasks, improving efficiency, and reducing costs. They can also be used to create new and innovative products and services.   
-
-
-Fuentes y contenido relacionado
-Computational thinking, what it is, phases and characteristics - SMOWL
-
-smowl.net
-
-How Automation Can Boost Efficiency and Reduce Manufacturing Costs
-
-kingstec.com
-
-How to create innovative software products by taking advantage of existing solutions
-
-devtalents.com
-
-
-
-
-
-And how to create a solution with Power Automate
-
-
+### How to create a solution with Power Automate?
 To create a solution with Power Automate, you will need to follow these steps:
 
 Sign in to Power Automate.   
@@ -199,7 +146,7 @@ Be prepared to iterate on your flow.
 Power Automate can be used to create a variety of automated solutions, such as automating tasks, improving efficiency, and reducing costs. It can also be used to create new and innovative products and services.   
 
 
-Fuentes y contenido relacionado
+Sources
 Create a cloud flow in a solution - Power Automate | Microsoft Learn
 
 learn.microsoft.com
